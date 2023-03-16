@@ -20,3 +20,9 @@ def school()
     print("Wow! A school of", type_fish, "!")
 
 school()
+
+def meal()
+    type_meal = input("Which fish will you eat? ")
+    print("What!! You're going to eat", type_meal, "?!??!?!?!")
+
+meal()
